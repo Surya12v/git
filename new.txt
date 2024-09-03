@@ -1,2 +1,6 @@
 "hi welcome"
+<<<<<<< HEAD
 ddd
+=======
+jcihdiufhoidjoijoij
+>>>>>>> 749d007e2e44477ad45046fa9d8d86acbf5b77c5
